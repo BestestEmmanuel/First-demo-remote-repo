@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285843636274",
+    "project_id": "daniel-s-project-654bc",
+    "storage_bucket": "daniel-s-project-654bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285843636274:android:1094b4c973c914a1e93c2b",
+        "android_client_info": {
+          "package_name": "com.example.fire_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZivUN8Xe4uPmUymJjXWM5xddUVr_Y7Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
